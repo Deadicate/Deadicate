@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Deadicate
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Python as my primary coding language.
-- 💞️ I’m looking to collaborate on anything and everything to build my skills and portfolio.
+- 👋 Hi, I’m @Deadicate also known as Moore Codes
+- 👀 I’m currently work as a back-end C developer for Dematic building software to automate warehouse operations.
+- 🌱 I’m looking for a mid-level role in web development using React frameworks to build large web apps.
 - 📫 How to reach me 
 
 <!---
