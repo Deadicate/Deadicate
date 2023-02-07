@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deadicate also known as Moore Codes
+- 👋 Hi, I’m @Deadicate also known as Moore Codes. I became hooked on software late in life, and now learn constantly to improve my software developer skills.
 - 👀 I’m currently work as a back-end C developer for Dematic building software to automate warehouse operations.
 - 🌱 I’m looking for a mid-level role in web development using React frameworks to build large web apps.
 - 📫 How to reach me 
